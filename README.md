@@ -1,3 +1,14 @@
+<h1 align="center">Tiago Glueck</h1>
+
+<p align="center">
+🏫 Estudante de Ciência da Computação na PUC-MG<br/>
+🌟 Sempre buscando aprender, contribuir e melhorar.
+</p>
+
+---
+
+<h3 align="center">🛠️ Tecnologias e Ferramentas</h3>
+
 <div align="center">
 	<table>
 		<tr>
@@ -12,3 +23,15 @@
 		</tr>
 	</table>
 </div>
+
+---
+
+<h3 align="center">📫 Onde me encontrar</h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/owatsuki/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://instagram.com/guumiau/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
+
+
