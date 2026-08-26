@@ -18,7 +18,7 @@ I'm Owatsuki — a Computer Science student who cares about clean code, solid ar
 
 I have a critical mindset by nature. I don't like black boxes, so I tend to go deep into how things operate under the hood — understanding systems, not just making them run.
 
-Right now I'm exploring topics like **system foundations, formal logic, and software architecture**. Sometimes, I build things just to understand the pieces movement.
+Right now I'm exploring topics like **system foundations, formal logic, and software architecture**. Sometimes, I build things just to understand how the pieces move.
 
 ---
 
