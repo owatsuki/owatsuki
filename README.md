@@ -1,14 +1,33 @@
-<h1 align="center">Gustavo Macêdo</h1>
 
 <p align="center">
-🏫 Estudante de Ciência da Computação na PUC-MG<br/>
-📚 Sempre buscando aprender, contribuir e melhorar<br/>
-🚀 Focado e determinado em evoluir como dev
+	<img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=28&pause=1000&color=A64EF7&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Owatsuki%F0%9F%91%8B;Fascinated+by+logic+and+challenges%E2%9C%8D;Code+with+intention."
 </p>
+<p align="center">
+ 	<img src="https://komarev.com/ghpvc/?username=owatsuki" />
+	 <img src="https://img.shields.io/github/followers/owatsuki?label=Followers&style=social" />
+	 <img src="https://img.shields.io/github/stars/owatsuki?label=Stars&style=social" />
+</p>
+
+
 
 ---
 
-<h3 align="center">🛠️ Tecnologias e Ferramentas</h3>
+## ☕Who I Am
+
+I'm Owatsuki — a Computer Science student who cares about clean code, solid architecture, and building tools that actually help people.
+
+I have a critical mindset by nature. I don't like black boxes, so I tend to go deep into how things operate under the hood — understanding systems, not just making them run.
+
+Right now I'm exploring topics like **system foundations, formal logic, and software architecture**. Sometimes, I build things just to understand the pieces movement.
+
+---
+
+```diff
++ knowing exactly why it works
+- "it works"
+```
+
+## <h3 align="center">🛠️ My Dev Toolbox</h3>
 
 <div align="center">
 	<table>
@@ -27,7 +46,7 @@
 
 ---
 
-<h3 align="center">📫 Onde me encontrar</h3>
+## <p align="center">📫 Let's Connect</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/owatsuki/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
