@@ -1,6 +1,6 @@
 
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=28&pause=1000&color=A64EF7&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Owatsuki%F0%9F%91%8B;Fascinated+by+logic+and+challenges%E2%9C%8D;Code+with+intention."
+	<img src="https://readme-typing-svg.demolab.com?font=Boogaloo&size=28&duration=2550&pause=1000&color=A64EF7&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Owatsuki%F0%9F%91%8B;Fascinated+by+logic+and+challenges%E2%9C%8D;Code+with+intention."
 </p>
 <p align="center">
  	<img src="https://komarev.com/ghpvc/?username=owatsuki" />
