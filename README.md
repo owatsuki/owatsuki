@@ -46,6 +46,28 @@ Right now I'm exploring topics like **system foundations, formal logic, and soft
 
 ---
 
+<!-- <table>
+  <tr>
+    <td width="50%" valign="top">
+      <img
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=owatsuki&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&border_color=30363d"
+        width="100%"
+      />    
+    </td>
+    <td width="50%" valign="top">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=owatsuki&rank_icon=github&show_icons=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&border_color=30363d"
+        width="100%"
+      />
+      <br>
+      <img
+        src="https://leetcard.jacoblin.cool/owatsuki?colors=0d1117,30363d,58a6ff,58a6ff,58a6ff,2ea043,e3b341,f85149&border=1&radius=6&sheets=https://gist.githubusercontent.com/yourname/xxxx/raw/leetcard.css"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table> -->
+
 ## <p align="center">📫 Let's Connect</p>
 
 <p align="center">
