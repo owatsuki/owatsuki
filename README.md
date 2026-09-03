@@ -14,7 +14,7 @@
 
 ## ☕Who I Am
 
-I'm Owatsuki — a Computer Science student who cares about clean code, solid architecture, and building tools that actually help people.
+I'm Gustavo — a Computer Science student who cares about clean code, solid architecture, and building tools that actually help people.
 
 I have a critical mindset by nature. I don't like black boxes, so I tend to go deep into how things operate under the hood — understanding systems, not just making them run.
 
